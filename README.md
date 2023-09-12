@@ -1,4 +1,4 @@
-# Refactor the codebase of a maketing agency to follow accessibility standards
+# Refactor the codebase of a Marketing Agency to follow accessibility standards
 
 ## Description
 
