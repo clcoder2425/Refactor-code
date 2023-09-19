@@ -19,7 +19,7 @@ At the end of this project, I learned:
 
 ## Usage
 
-- [Marketing Agency image] (./assets/images/screenshot.png)
-- Webpage link: https://clcoder2425.github.io/Refactor-code/
-- Github repository link: https://github.com/clcoder2425/Refactor-code.git
+![Marketing Agency image](./assets/images/screenshot.png)
+![Webpage link] https://clcoder2425.github.io/Refactor-code/
+![Github repository link] https://github.com/clcoder2425/Refactor-code.git
 
