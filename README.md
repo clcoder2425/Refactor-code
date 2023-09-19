@@ -21,7 +21,7 @@ At the end of this project, I learned:
 
 ![Marketing Agency image](./assets/images/screenshot.png)
 
-![Webpage link] https://clcoder2425.github.io/Refactor-code/
+-![Webpage link] https://clcoder2425.github.io/Refactor-code/
 
-![Github repository link] https://github.com/clcoder2425/Refactor-code.git
+-![Github repository link] https://github.com/clcoder2425/Refactor-code.git
 
